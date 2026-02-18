@@ -106,6 +106,7 @@ Activar:
 
 conda activate ~/myenv
 ```
+Entornos disponibles: [Entornos](Entornos)
 
 Desactivar:
 
